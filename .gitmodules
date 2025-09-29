@@ -1,3 +1,6 @@
 [submodule "WoofWoof-backend"]
 	path = WoofWoof-backend
 	url = https://github.com/Titanguy4/WoofWoof-backend.git
+[submodule "WoofWoof-frontend"]
+	path = WoofWoof-frontend
+	url = https://github.com/Titanguy4/WoofWoof-frontend.git
