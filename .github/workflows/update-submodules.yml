@@ -13,9 +13,12 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
+          # IMPORTANT: Utiliser le PAT (avec permission 'repo') pour l'authentification en écriture
+          token: ${{ secrets.REPO_PAT }}
 
       - name: Configure Git
         run: |
+          # Configure l'utilisateur pour le commit
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -30,5 +33,5 @@ jobs:
             git commit -m "chore: update submodules to latest"
             git push origin main
           else
-            echo "✅ Submodules déjà à jour"
+            echo "Submodules déjà à jour"
           fi
