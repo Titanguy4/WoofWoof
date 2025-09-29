@@ -1,6 +1,8 @@
 # WoofWoof
 
-<img src="logo.png" alt="WoofWoof Logo" width="200">
+<div align="center">
+    <img src="logo.png" alt="WoofWoof Logo" width="400">
+</div>
 
 **WoofWoof** est une application web moderne dédiée aux amoureux du woofing. Ce projet propose une application mobile permettant aux utilisateurs de poster des annonces, trouver des propositions de woofing facilement et partager et interagir autour de l'univers du woofing.
 
