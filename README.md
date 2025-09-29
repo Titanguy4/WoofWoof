@@ -33,6 +33,14 @@ Cloner le repository principal avec les submodules
 git clone --recurse-submodules https://github.com/mon-org/mon-repo.git
 ```
 
+Changer de dossier
+
+```bash
+cd WoofWoof-backend
+#ou
+cd WoofWoof-frontend
+```
+
 Puis si vous voulez push une modification dans un submodule, il ne faut pas oublier d'aller sur une branche
 
 ```bash
