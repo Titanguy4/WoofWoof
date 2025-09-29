@@ -1,18 +1,8 @@
 # WoofWoof
 
-![alt text](logo.png)
+<img src="logo.png" alt="WoofWoof Logo" width="200">
 
 **WoofWoof** est une application web moderne dédiée aux amoureux du woofing. Ce projet propose une application mobile permettant aux utilisateurs de poster des annonces, trouver des propositions de woofing facilement et partager et interagir autour de l'univers du woofing.
-
-## Table des matières
-
-- [À propos du projet](#à-propos-du-projet)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Structure du projet](#structure-du-projet)
-- [Mise à jour automatique](#mise-à-jour-automatique)
-- [Crédits](#crédits)
-- [Licence](#licence)
 
 ## À propos du projet
 
@@ -23,9 +13,13 @@ WoofWoof est une application full-stack composée de :
 
 Ce projet a été développé dans le cadre du module IWA (Ingénierie Web Avancée) en IG5 à Polytech Montpellier.
 
-## Architecture
+## Table des matières
 
-Le projet utilise une architecture modulaire avec des **submodules Git** pour séparer le frontend et le backend, et ainsi faciliter le déploiement de l'API.
+- [Installation](#installation)
+- [Structure du projet](#structure-du-projet)
+- [Mise à jour automatique](#mise-à-jour-automatique)
+- [Crédits](#crédits)
+- [Licence](#licence)
 
 ## Installation
 
