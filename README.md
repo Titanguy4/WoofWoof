@@ -1,6 +1,6 @@
 # WoofWoof
 
-![alt text](image.png)
+![alt text](logo.png)
 
 **WoofWoof** est une application web moderne dédiée aux amoureux du woofing. Ce projet propose une application mobile permettant aux utilisateurs de poster des annonces, trouver des propositions de woofing facilement et partager et interagir autour de l'univers du woofing.
 
